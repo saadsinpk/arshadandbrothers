@@ -1,0 +1,11 @@
+@media print {
+	html, body {
+	    padding: 0 !important;
+	    margin: 0 !important;
+	}
+.gdnum{
+    padding-top: 190px;
+    padding-left: 60px;
+    font-size: 18px;}
+}
+.yesprint { display: none; }
